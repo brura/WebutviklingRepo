@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+
+.contentbox {
+    background-color: lightgrey;
+    border: solid darkgrey;
+    margin: 0% 15% 0% 15%;  
+}
+
+
+
+#imgKart{
+    height: 50%;
+    width: 50%;
+    background-color: powderblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    border: dotted black;
+}
+
+.centerul{
+    
+    text-align: left;
+    margin-left: inherit;
+}
+
